@@ -6,13 +6,24 @@ body {
  .quote {
     color: white;
     text-align: center;
+    margin: 70px;
  }
 
 h3 {
     color: white;
+    display: inline;
+    margin: 30px;
 }
 
- header > p {
+img {
+   margin: 30px;
+   max-width: 500px;
+   max-height: 500px;
+   width: auto;
+   height: auto;
+}
+
+header > p {
     text-align: center;
  }
 
@@ -20,12 +31,33 @@ h3 {
     color: white;
     text-align: center;
     font-family: fantasy;
+    font-size: 60px;
+    margin: 20px;
  }
  
+ nav > ul {
+    text-align: center;
+    margin-bottom: 50px;
+ }
+
 .link {
     display: inline;
-    padding: 3px;
-    margin: 10px;
+    padding: 5px;
+    margin: 40px;
     color: white;
     border: solid 1px white;
+ }
+
+ a {
+    text-decoration: none;
+ }
+
+.imgBlock {
+   float: left;
+}
+
+ footer {
+    margin-top: 70px;
+    clear: both;
+    color: grey;
  }

@@ -2,10 +2,10 @@
 
 ## Teammates & their pages
 Tif Taylor \| [Home Page](https://tiftaylor.github.io/wa-microbreweries-102/)  
-Marchael Acode \| [Aslan Brewing Page](https://kuya32.github.io/wa-microbreweries-102/)  
-Jack Nelson \| [Urban Family Brewing Page](https://jnelsonholding.github.io/wa-microbreweries-102/)  
+[Marchael Acode](https://github.com/kuya32) \| [Aslan Brewing Page](https://kuya32.github.io/wa-microbreweries-102/)  
+[Jack Nelson](https://github.com/jnelsonholding) \| [Urban Family Brewing Page](https://jnelsonholding.github.io/wa-microbreweries-102/)  
 John Ramirez \| [Oppegaard Page]()  
-Jae Young Choi \| [Reuben's Brews Page](https://choi702.github.io/class4-demo/)  
+[Jae Young Choi](https://github.com/choi702) \| [Reuben's Brews Page](https://choi702.github.io/class4-demo/)  
   
   
     
