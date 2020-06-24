@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(66, 118, 160);
+    font-family: loveloline_light;
+ }
+
+ .quote {
+    color: white;
+    text-align: center;
+ }
+
+h3 {
+    color: white;
+}
+
+ header > p {
+    text-align: center;
+ }
+
+ h1 {
+    color: white;
+    text-align: center;
+    font-family: fantasy;
+ }
+ 
+.link {
+    display: inline;
+    padding: 3px;
+    margin: 10px;
+    color: white;
+    border: solid 1px white;
+ }
