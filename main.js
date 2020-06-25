@@ -1,9 +1,17 @@
+
+function ready() {
+    var answer;
+    answer = prompt('Do you like the idea of local breweries? (please enter: "yes" or "no")');
+    while(answer.toLowerCase() !== 'no' && answer !== 'yes') {
+        answer = prompt('I am a computer and need you to type "yes" or "no"...');
+    };
+    return answer;
+};
+
 function askAge() {
     var ageInput = prompt('How old are you?');
     return ageInput;
 };
-
-var age = askAge();
 
 function checkAge(age) {
     var greeting;
@@ -16,4 +24,5 @@ function checkAge(age) {
     };
 };
 
-checkAge(age);
+ready();
+checkAge(askAge());
