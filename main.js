@@ -1,4 +1,4 @@
-
+// while loop
 function ready() {
     var answer;
     answer = prompt('Do you like the idea of local breweries? (please enter: "yes" or "no")');
@@ -7,6 +7,7 @@ function ready() {
     };
     return answer;
 };
+
 
 function askAge() {
     var ageInput = prompt('How old are you?');
@@ -24,5 +25,13 @@ function checkAge(age) {
     };
 };
 
+// calling my above functions
 ready();
 checkAge(askAge());
+
+// run this For loop after the first functions
+var drink = 0;
+for (var i = 0; i < 5; i++) {
+    drink = drink + i;
+};
+alert("BTW, visiting this site just made you drink " + i + " imaginary beers from a 'for' loop!");
